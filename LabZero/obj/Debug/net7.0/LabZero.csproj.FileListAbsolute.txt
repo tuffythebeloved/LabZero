@@ -1,0 +1,15 @@
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\bin\Debug\net7.0\LabZero.exe
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\bin\Debug\net7.0\LabZero.deps.json
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\bin\Debug\net7.0\LabZero.runtimeconfig.json
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\bin\Debug\net7.0\LabZero.dll
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\bin\Debug\net7.0\LabZero.pdb
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\LabZero.csproj.AssemblyReference.cache
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\LabZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\LabZero.AssemblyInfoInputs.cache
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\LabZero.AssemblyInfo.cs
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\LabZero.csproj.CoreCompileInputs.cache
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\LabZero.dll
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\refint\LabZero.dll
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\LabZero.pdb
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\LabZero.genruntimeconfig.cache
+C:\Users\Thalia-school\Desktop\Code\OOP\LabZero\LabZero\obj\Debug\net7.0\ref\LabZero.dll
